@@ -29,7 +29,7 @@ function addFlexLayout() {
   let divs = document.getElementsByTagName("div");
   let count = 0;
   while(count < divs.length){
-    
+    divs[count].classList.
     count++;
   }
 }
