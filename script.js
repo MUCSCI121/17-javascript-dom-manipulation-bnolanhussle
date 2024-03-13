@@ -28,7 +28,8 @@ function colorizeLoopNameHeaders() {
 function addFlexLayout() {
   let divs = document.getElementsByTagName("div");
   let count = 0;
-  while(){
+  while(count < divs.length){
+    
     count++;
   }
 }
