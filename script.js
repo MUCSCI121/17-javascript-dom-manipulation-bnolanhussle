@@ -33,7 +33,7 @@ function addFlexLayout() {
     count++;
   }
   count = 0;
-  
+  let articles = document.getElementsByTagName("article");
   while(count < articles.length){
     count++;
   }
