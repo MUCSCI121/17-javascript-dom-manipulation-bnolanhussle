@@ -76,3 +76,7 @@ console.log(
 
 let url = window.location.href;
 console.log("Page url " + url);
+
+function showAlertMessage(message){
+  
+}
