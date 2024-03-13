@@ -17,6 +17,7 @@ function colorizeLoopNameHeaders() {
   let count = 0;
   while (count < codeFonts.length){
     
+    count++;
   }
 }
 
