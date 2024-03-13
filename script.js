@@ -48,7 +48,7 @@ function styleArticles() {
   let articles = document.getElementsByTagName("article");
   let count = 0;
   while(count < articles.length){
-    
+    articles[count].classList.add("")
     count ++;
   }
 }
