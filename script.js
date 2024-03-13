@@ -33,7 +33,10 @@ function addFlexLayout() {
     count++;
   }
   count = 0;
-  while(count < )
+  
+  while(count < articles.length){
+    count++;
+  }
 }
 
 /** 
