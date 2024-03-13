@@ -49,7 +49,7 @@ function styleArticles() {
   let count = 0;
   while (count < articles.length) {
     articles[count].classList.add("articleShadow");
-    articles[count].onclick = showAlertMessage('clicked me');
+    articles[count].onclick = () => showAlertMessage("clicked me");
     articles[count].classList.add("roundedBorder");
     articles[count].firstElementChild.classList.add("articleTitle");
 
