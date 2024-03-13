@@ -15,7 +15,7 @@ function addH1HeadingElement() {
 function colorizeLoopNameHeaders() {
   let codeFonts = document.getElementsByClassName("codeFont");
   let count = 0;
-  while (count < codeFonts.length){
+  while (count < codeFonts.length) {
     codeFonts[count].classList.add("codeColor");
     count++;
   }
@@ -28,13 +28,13 @@ function colorizeLoopNameHeaders() {
 function addFlexLayout() {
   let divs = document.getElementsByTagName("div");
   let count = 0;
-  while(count < divs.length){
+  while (count < divs.length) {
     divs[count].classList.add("flexContainer");
     count++;
   }
   count = 0;
   let articles = document.getElementsByTagName("article");
-  while(count < articles.length){
+  while (count < articles.length) {
     articles[count].classList.add("flexItem");
     count++;
   }
@@ -47,10 +47,10 @@ function addFlexLayout() {
 function styleArticles() {
   let articles = document.getElementsByTagName("article");
   let count = 0;
-  while(count < articles.length){
+  while (count < articles.length) {
     articles[count].classList.add("articleShadow");
     articles[count].firstElementChild().classList.add("articleTitle");
-    
-    count ++;
+
+    count++;
   }
 }
