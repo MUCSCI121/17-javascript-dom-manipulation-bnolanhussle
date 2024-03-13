@@ -25,7 +25,9 @@ function colorizeLoopNameHeaders() {
  Practice 3: Adding grid layout to divs using
  while and do/while loops
 */
-function addFlexLayout() {}
+function addFlexLayout() {
+  
+}
 
 /** 
   Practice 4:  Adding styles to articles using
