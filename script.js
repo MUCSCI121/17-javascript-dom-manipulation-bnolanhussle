@@ -65,3 +65,4 @@ let screenHeight = window.screen.height;
 console.log(
   "Screen width is " + screenWidth + " screen height is " + screenHeight
 );
+let 
