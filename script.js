@@ -26,6 +26,7 @@ function colorizeLoopNameHeaders() {
  while and do/while loops
 */
 function addFlexLayout() {
+  let divs = document.getElementsByTagName("div");
   
 }
 
