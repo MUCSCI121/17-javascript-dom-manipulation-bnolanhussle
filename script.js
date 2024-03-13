@@ -15,7 +15,9 @@ function addH1HeadingElement() {
 function colorizeLoopNameHeaders() {
   let codeFonts = document.getElementsByClassName("codeFont");
   let count = 0;
-  while (count < codeFonts.length)
+  while (count < codeFonts.length){
+    
+  }
 }
 
 /** 
