@@ -16,7 +16,7 @@ function colorizeLoopNameHeaders() {
   let codeFonts = document.getElementsByClassName("codeFont");
   let count = 0;
   while (count < codeFonts.length){
-    codeFonts[count].classList
+    codeFonts[count].classList.add("codeColor");
     count++;
   }
 }
