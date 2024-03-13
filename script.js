@@ -56,10 +56,12 @@ function styleArticles() {
   }
 }
 
-  /*
+/*
   Browser Object Model practice 
   */
 
-  let screenWidth = window.screen.width;
-  let screenHeight = window.screen.height;
-  console.log("Screen width is " + screenWidth + " screen height is " + s)
+let screenWidth = window.screen.width;
+let screenHeight = window.screen.height;
+console.log(
+  "Screen width is " + screenWidth + " screen height is " + screenHeight
+);
