@@ -45,5 +45,5 @@ function addFlexLayout() {
   for loop
 */
 function styleArticles() {
-  let 
+  let articles = document.getelement
 }
