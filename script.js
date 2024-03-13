@@ -73,3 +73,5 @@ console.log(
     " screen avail height is " +
     screenAvailHeight
 );
+
+let url = window.location.href;
