@@ -13,7 +13,7 @@ function addH1HeadingElement() {
  using for loop
 */
 function colorizeLoopNameHeaders() {
-  
+  let codeFonts = 
 }
 
 /** 
