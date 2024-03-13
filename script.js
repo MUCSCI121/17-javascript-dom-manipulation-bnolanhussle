@@ -50,7 +50,7 @@ function styleArticles() {
   while (count < articles.length) {
     articles[count].classList.add("articleShadow");
     articles[count].classList.add("roundedBorder");
-    articles[count].firstElementChild().classList.add("articleTitle");
+    articles[count].firstElementChild.classList.add("articleTitle");
 
     count++;
   }
