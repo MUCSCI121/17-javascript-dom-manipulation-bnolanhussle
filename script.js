@@ -60,4 +60,4 @@ function styleArticles() {
   Browser Object Model practice 
   */
 
-  let screenWidth = 
+  let screenWidth = window.screen.width;
