@@ -49,6 +49,7 @@ function styleArticles() {
   let count = 0;
   while (count < articles.length) {
     articles[count].classList.add("articleShadow");
+    articles[count].classList.add("articleShadow");
     articles[count].firstElementChild().classList.add("articleTitle");
 
     count++;
