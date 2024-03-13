@@ -2,7 +2,7 @@
  Practice 1: Adding the <h1>
 */
 function addH1HeadingElement() {
-  document
+  let document.createElement("h1");
 }
 
 /** 
