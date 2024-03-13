@@ -62,4 +62,4 @@ function styleArticles() {
 
   let screenWidth = window.screen.width;
   let screenHeight = window.screen.height;
-  
+  console.log("Screen width is ")
