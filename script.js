@@ -32,6 +32,8 @@ function addFlexLayout() {
     divs[count].classList.add("flexContainer");
     count++;
   }
+  count = 0;
+  
 }
 
 /** 
