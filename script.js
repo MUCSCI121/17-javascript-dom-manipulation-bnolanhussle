@@ -44,4 +44,6 @@ function addFlexLayout() {
   Practice 4:  Adding styles to articles using
   for loop
 */
-function styleArticles() {}
+function styleArticles() {
+  let 
+}
