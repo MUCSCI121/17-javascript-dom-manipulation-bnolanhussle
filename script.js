@@ -46,5 +46,9 @@ function addFlexLayout() {
 */
 function styleArticles() {
   let articles = document.getElementsByTagName("article");
-  l
+  let count = 0;
+  while(count < articles.length){
+    
+    count ++;
+  }
 }
