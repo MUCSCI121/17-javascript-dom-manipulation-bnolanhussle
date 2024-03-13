@@ -5,6 +5,7 @@ function addH1HeadingElement() {
   let h1 = document.createElement("h1");
   h1.textContent = "JavaScript Today";
   let body = document.getElementById("body");
+  body.prepend(h1);
 }
 
 /** 
